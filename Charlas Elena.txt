@@ -1,0 +1,73 @@
+DESARROLLO
+ 
+FRONT
+Tendencias en el desarrollo Front
+Angular / React / Vue
+Low code con Power Platform
+Low code con Appian
+Qué es un CMS
+Salesforce CRM
+ 
+BACK
+¿Cómo funciona GPT?
+ASP .Net Core / ASP .NET Core con MVC
+Introducción a Entity Framework
+Bot Framework
+ 
+CLOUD
+¿Qué servicios hay en Azure?
+Datos en Azure
+Desarrollo de soluciones con Azure
+Desarrollo de soluciones con AWS
+Contenedores
+ 
+OTRAS CHARLAS
+¿Cómo funciona GPT?
+Open AI
+Github
+IA y Machine Learning
+Espacio y Satélites
+La informática y el Espacio
+INFRAESTRUCTURAS Y SISTEMAS
+ 
+Administración cloud con Azure
+Administración cloud con AWS
+Administración cloud con Google Cloud Platform
+Contenedores Cloud (Kubernetes, Dockers)
+Microsoft Intune
+Microsoft Endpoint Manager
+Windows 365 Cloud-PC
+Azure Virtual Desktop
+PowerShell
+ 
+ 
+OTRAS CHARLAS
+Terraform
+DevOps
+ 
+CIBERSEGURIDAD
+Análisis forense
+Pentesting
+Hacking ético
+Sistemas de gestión de la seguridad (políticas, medidas, elementos críticos, análisis de vulnerabilidades)
+CHARLAS MOTIVACIONALES
+Primeros pasos en el mundo laboral
+HR-insider, mi aportación como ex de RRHH
+Con esfuerzo todo vale la pena
+Al final siempre sale bien; si no estás bien, es que aún no es el final
+Aprendizaje vocacional, la clave del éxito laboral
+Reorientación de carrera
+El Universo es tuyo
+Experiencia empresarial
+El camino del guerrero
+¿Alguien entiende la discapacidad? Estuve 5 años de baja por un accidente grave; mi carrera no se truncó, tampoco se puso en pausa. Muchas dificultades que superar
+CHARLAS SOFTSKILLS
+Comunicación Asertiva 
+Manejo de conflictos
+Gestión de equipos
+Desarrollo de personas
+En el Universo hay espacio para todos
+Importancia del inglés en posiciones tecnológicas
+Seguridad para la entrevista de trabajo
+Habilidades más allá del conocimiento técnico
+Creatividad: "Si no lo veo, no lo creo"

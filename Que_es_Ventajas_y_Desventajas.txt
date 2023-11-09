@@ -1,0 +1,18 @@
+¿QUÉ ES PYTHON?
+	Python es un lenguaje de programación de alto nivel que se caracteriza por su sintaxis clara y legible orientado a objetos, con una 	semántica dinámica integrada, principalmente para el desarrollo web y de aplicaciones informáticas.
+
+VENTAJAS
+	Lenguaje de alto nivel: es un lenguaje de alto nivel, por lo que es más fácil de usar que los de bajo nivel,se pueden usar elementos del lenguaje 	natural, ya que tiene una sintaxis similar al inglés, por lo que es fácil de leer, escribir y aprender.
+	
+	Gratis y de código abierto: es un lenguaje de programación desarrollado bajo la licencia de código abierto aprobada por OSI, todos pueden usarlo y 		distribuirlo libremente.
+	
+	Baja curva de aprendizaje: La sencillez de la sintaxis permite escribir programas totalmente funcionales en pocas líneas de código, por lo que su 	curva de aprendizaje es muy baja.
+	
+	Portabilidad: es compatible con todos los sistemas operativos (macOS, Linux, UNIX y Windows), los programadores solo necesitan escribir código una 	vez y luego podrá ejecutarse en todas partes.
+	
+	Comunidad fuerte: Los programadores de Python pueden descargar el código fuente, modificarlo y distribuirlo como deseen.
+
+DESVENTAJAS
+	Lentitud: La lentitud de Python se debe principalmente a su naturaleza dinámica y versatilidad. No obstante, hay formas de optimizar las 	aplicaciones de Python aprovechando la sincronización
+	
+	Consumo de memoria: En el caso de que una tarea requiera mucha memoria, Python no es la mejor opción. El consumo de memoria de Python es muy alto, y 	esto se debe a la flexibilidad de los tipos de datos.

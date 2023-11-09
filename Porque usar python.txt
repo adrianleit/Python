@@ -1,0 +1,6 @@
+Lenguaje de alto nivel
+Lenguaje de proposito general
+Librerias y frameworks
+Compatible con todos los sistemas operativos
+Codigo abierto
+Baja curva de aprendizaje
