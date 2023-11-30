@@ -3,7 +3,7 @@ numero=int(input('Introduce un numero'))
 positivos=0
 negativos=0
 for i in range(0,numero):
-    numeroIntro=input('Introduce un numero')
+    numeroIntro=int(input('Introduce un numero'))
     if numeroIntro > 0:
         positivos=positivos+1
     else:
