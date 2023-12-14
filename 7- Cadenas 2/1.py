@@ -1,6 +1,7 @@
-'''Algoritmo funcion len'''
-cadena=input('Introduce las cadenas: ')
-caracteres=0
-for i in cadena:
-    caracteres+=1
-print(caracteres)
+cadena = input("Introduce una cadena: ")
+contador = 0
+
+while cadena[contador:]: # [contador:] contador empieza en la posicion 0 y llega hasta el final de la cadena
+    contador += 1
+
+print(f"Hay {contador} caracteres")
