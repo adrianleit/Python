@@ -1,6 +1,6 @@
 import random
 import mysql.connector
-
+#Conexion
 connection = mysql.connector.connect(
     host='localhost',
     user='root',
