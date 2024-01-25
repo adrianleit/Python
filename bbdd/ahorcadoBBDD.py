@@ -13,15 +13,15 @@ cursor = connection.cursor()
 jugar=input('Has jugado antes: Si(S) o No(N)')
 if jugar == 'S' or jugar == 's':
     usuario=input('Dime tu nickname: ');
-    cursor.execute("select id_usuario from usuarios WHERE nombre='"+usuario+"'")
-    jugador = cursor.fetchone()
-    jugador = jugador[0]
-    jugador = int(jugador)
-
-    
+    cursor.execute("select id_usuario from usuarios WHERE nombre='"+usuario+"'")   
 else:
     usuario=input('Dime tu nickname: ');
     cursor.execute("INSERT INTO usuarios VALUES (NULL,'"+usuario+"')")
+
+cursor.execute("select id_usuario from usuarios WHERE nombre='"+usuario+"'")
+jugador = cursor.fetchone()
+jugador = jugador[0]
+jugador = int(jugador)
 
 
 # Definir la palabra secreta
