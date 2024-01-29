@@ -1,6 +1,6 @@
 import random
 import mysql.connector
-#Conexion
+#Conexion a la bbdd
 connection = mysql.connector.connect(
     host='localhost',
     user='root',
@@ -10,14 +10,15 @@ connection = mysql.connector.connect(
 cursor = connection.cursor()
 #INSERT INTO `usuarios` (`id_usuario`, `nombre`) VALUES (NULL, 'adrian');
 
+#Pregunta si el usuario ha jugado antes para sacar su usuario de la bbdd o crearlo
 jugar=input('Has jugado antes: Si(S) o No(N)')
 if jugar == 'S' or jugar == 's':
-    usuario=input('Dime tu nickname: ');
-    cursor.execute("select id_usuario from usuarios WHERE nombre='"+usuario+"'")   
+    usuario=input('Dime tu nickname: ');   
 else:
     usuario=input('Dime tu nickname: ');
     cursor.execute("INSERT INTO usuarios VALUES (NULL,'"+usuario+"')")
 
+#Hacemos la consulta para sacar el usuario
 cursor.execute("select id_usuario from usuarios WHERE nombre='"+usuario+"'")
 jugador = cursor.fetchone()
 jugador = jugador[0]
